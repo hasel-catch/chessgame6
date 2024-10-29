@@ -24,4 +24,4 @@ This project has potential issues to solve.
 They are Upgrading AI Game algorithm, Crypto wallet integration, Ugrading game UI and etc.
 
 # Contact Info
-support@protacticul.com / arankrylov@gmail.com
+support -at symbol- protacticul -dot- com / arankrylov -at symbol- gmil -dot- com
